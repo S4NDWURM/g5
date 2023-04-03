@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <h1 align="center">Team "G5"
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-    <h3 align="center">Project "Team planner"</h3>
+    <h3 align="center">Project <b>"Team planner"</b></h3>
   </head>
   <body>
   Первые задачи:
